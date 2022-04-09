@@ -38,3 +38,13 @@ footer {
   padding: 20px 0;
   background-color: #72c32c;
 }
+
+#cpfooter {
+  color: red;
+}
+
+.pical {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+}
